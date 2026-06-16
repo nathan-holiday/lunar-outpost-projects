@@ -44,5 +44,6 @@ This project demonstrates practical experience relevant to simulation analysis a
 - 'images/' - Physical setup, plots
 
 ## Exported Notebook
-View the full Jupyter notebook analysis here:
-[Open rendered notebook](https://htmlpreview.github.io/?http://github.com/nathan-holiday/lunar-outost-projects/blob/main/docs/graph_jupyter_explore.html)
+The full Jupyter notebook analysis is available as an HTML file.
+Download it and open it in any web browser to view the rendered notebook with all plots and outputs:
+**File:** 'docs/graph_jupyter_explore.html'
