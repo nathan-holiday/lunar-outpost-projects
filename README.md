@@ -6,7 +6,7 @@ Built an end-to-end sensor data pipeline using ROS 2 on a Raspberry Pi. A custom
 This project demonstrates practical experience relevant to simulation analysis and test engineer roles, including sensor data handling, ROS 2 communication, data analysis, and reproducible development workflows.
 
 ## Motivation
-- Gain hands-on experience with ROS 2 publisher/subscriber nodes and architecture
+- Gain hands-on experience with ROS 2 nodes and architecture
 - Analyze real sensor data
 - Demonstrate and practice data analysis and visualization
 - Use Docker to solve ROS 2 version and environment challenges, learn about containers
@@ -30,7 +30,7 @@ This project demonstrates practical experience relevant to simulation analysis a
 - Created clear visualizations and analysis using Jupyter notebooks and Python scripts
 - Maintained a reproducible environment using Docker
 
-##Skills Demonstrated 
+## Skills Demonstrated 
 - ROS 2 (services, custom '.srv' and '.msg' files, Python nodes)
 - Python data analysis and visualization (matplotlib, pandas, Jupyter)
 - Docker for development environments
