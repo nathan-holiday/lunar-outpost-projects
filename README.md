@@ -45,4 +45,4 @@ This project demonstrates practical experience relevant to simulation analysis a
 
 ## Exported Notebook
 View the full Jupyter notebook analysis here:
-[graph_jupyter_explore.html](docs/graph_jupyter_explore.html)
+[Open rendered notebook](https://htmlpreview.github.io/?http://github.com/nathan-holiday/lunar-outost-projects/blob/main/docs/graph_jupyter_explore.html)
