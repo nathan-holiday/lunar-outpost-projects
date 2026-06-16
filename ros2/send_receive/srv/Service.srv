@@ -1,0 +1,5 @@
+# Empty request — we just want to trigger a temperature reading
+---
+float64 temperature
+bool success
+string message
